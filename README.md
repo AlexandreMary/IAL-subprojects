@@ -1,5 +1,5 @@
-Subprojects in the IFS-Arpege-LAM code repository
-=================================================
+Subprojects in the IFS-Arpege-LAM code repository, as of pre-CY49
+=================================================================
 
 | Project | Contents | Legitimate place |
 |:-----------------|:-----------------|:----------------------|
