@@ -19,11 +19,11 @@ Subprojects in the IFS-Arpege-LAM code repository, as of pre-CY49
 | doc | auxiliary files for automatic doc generation ? | Y |
 | dummy | dummies for IFS (aladin, etc...) |  |
 | enkf | IFS ENKF |  |
-| etrans | LAM spectral transforms (should join ectrans soon) | (N) |
+| etrans | LAM spectral transforms | (should join ectrans soon) |
 | glomap | ? | ? |
 | ifsaux | auxiliary libs used by arpifs and other sub-projects (file formats, ...). | Y |
 | ifsobs | abstraction layer between IFS and ODB |  |
-| mpa | Meso-NH/AROME physics (externalisation planned in 49T1, only interfaces may remain ?) | (Y) |
+| mpa | Meso-NH/AROME physics | externalisation planned in 49T1, only interfaces may remain |
 | mse | interface to SURFEX | Y |
 | nemo | IFS ocean model : Managed externally, to be taken out ? | N |
 | obstat | diagnostics about observations assimilation | Y |
@@ -36,7 +36,7 @@ Subprojects in the IFS-Arpege-LAM code repository, as of pre-CY49
 | scmec | single column model |  |
 | ssa | surface fields analysis |  |
 | surf | IFS surface scheme | Y |
-| surfex | copy of SURFEX (externalisation planned for 2023 ?) | N |
-| trans | leftovers of spectral transforms | (N) |
+| surfex | copy of SURFEX | externalisation planned for CY50 ? |
+| trans | leftovers of spectral transforms | N |
 | utilities | external programs using ifsaux, should not use arpifs (but does) | ? |
 | wam | IFS wave model: managed externally ? | N |
